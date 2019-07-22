@@ -1,0 +1,30 @@
+How to install custom songs on the Oculus Quest step by step Guide:
+
+1- make an organization while logged into your Oculus on your computer https://developer.oculus.com/distribute/latest/concepts/publish-account-management-intro/?locale=en_US
+
+2 - pair your quest to your oculus app on your phone and enable developer mode
+
+3 - put on your quest and click always allow access for USB debugging then click accept after you plug it in via usb type C
+
+4 - Install BeatOn through the software called Sidequest which can be found on Github 
+
+5 - Click the with the icon with the  music symbol, click on open songs folder, drop your custom song into the folder that opens,
+    then click on the refresh icon next to the up down arrows
+
+6 - Move your song from the right onto the left side by clicking it and dragging it over
+
+7 - After installing Beaton, click SYNC to beaton next to sync songs
+
+8 - Put on your Oculus, and press the Icon that says TV, let the app open, and scroll all the way down
+   until you see unknown devices, and click on the BEATON APP, once the app loads, press SYNC to Beat Saber
+   on the top right, let it save and do not close the app, then click on start beat saber, and your custom
+  song should be loaded under the custom songs icon.
+                     
+ Extra step: Install ADB download ADB-platform tools, from here https://developer.android.com/studio/releases/platform-tools
+ place platform tools in  C:/Users/yourname/.android allow USB Debugging on your Oculus, to authorize your device for ADB 
+
+There are some better ADB installation guides you can find on youtube if this doesn't help try searching for XDA adb installation guide
+
+Happy Modding, MultiDarkZen~  
+
+ Note - I am not responsible to any damage that happens to your oculus quest            
